@@ -1,4 +1,4 @@
-# awesome-markdown-editors
+﻿# awesome-markdown-editors
 
 A curated directory of Markdown editors, viewers, preview tools, and related writing utilities for web, desktop, and mobile environments. The collection includes tools for Linux, macOS, Microsoft Windows, browser-based workflows, Android, iOS, and integration into web applications.
 
